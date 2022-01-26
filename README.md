@@ -4,5 +4,5 @@
 ## Реализация
 
 <p align="center">
-  <img src="https://github.com/bryakotkin/CardPicker/master/Screenshots/Main.png" width="350" alt="Icon"/>
+  <img src="https://github.com/bryakotkin/CardPicker/blob/master/Screenshots/Main.png" width="350" alt="Icon"/>
 </p>
