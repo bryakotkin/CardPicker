@@ -3,6 +3,4 @@
 
 ## Реализация
 
-<p align="center">
-  <img src="https://github.com/bryakotkin/CardPicker/blob/master/Screenshots/Main.png" width="350" alt="Icon"/>
-</p>
+![gif](https://github.com/bryakotkin/CardPicker/blob/master/Screenshots/1.gif)
